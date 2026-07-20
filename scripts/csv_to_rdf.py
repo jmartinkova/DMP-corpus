@@ -1,3 +1,14 @@
+"""
+Build script for the DMP Corpus.
+
+This script generates:
+
+- RDF/Turtle metadata description of the dataset
+- GitHub Pages website
+
+Source of truth: CSV metadata table.
+"""
+
 import argparse
 import html
 import json
@@ -430,7 +441,7 @@ def display_value(value):
     return str(value)
 
 
-def detail_row(label, value, raw_html=False):
+def detail_row(label, value, raw_html=False, class_name=None):
     if value is None:
         return ""
 
@@ -439,14 +450,50 @@ def detail_row(label, value, raw_html=False):
     else:
         rendered = html.escape(display_value(value))
 
+    class_attr = (
+        f' class="{html.escape(class_name, quote=True)}"'
+        if class_name
+        else ""
+    )
+
     return (
         "        <dt>"
         + html.escape(label)
         + "</dt>\n"
-        "        <dd>"
+        f"        <dd{class_attr}>"
         + rendered
         + "</dd>\n"
     )
+
+
+def score_badge(value):
+    if value is None:
+        return None
+
+    score = max(0, min(100, value))
+
+    if score == 100:
+        level = "complete"
+    elif score >= 75:
+        level = "high"
+    elif score >= 50:
+        level = "medium"
+    else:
+        level = "low"
+
+    return (
+        f'<span class="score score-{level}" '
+        f'aria-label="{score} percent">{score}%</span>'
+    )
+
+
+def boolean_badge(value):
+    if value is None:
+        return None
+
+    label = "Yes" if value else "No"
+    state = "yes" if value else "no"
+    return f'<span class="badge badge-{state}">{label}</span>'
 
 
 def render_record_page(record):
@@ -475,11 +522,15 @@ def render_record_page(record):
     rows += detail_row("Template", record["template"])
     rows += detail_row(
         "Template correspondence",
-        record["template_correspondence"],
+        score_badge(record["template_correspondence"]),
+        raw_html=True,
+        class_name="score-cell",
     )
     rows += detail_row(
         "Estimated completeness",
-        record["estimated_completeness"],
+        score_badge(record["estimated_completeness"]),
+        raw_html=True,
+        class_name="score-cell",
     )
     rows += detail_row("Language", record["language"])
     rows += detail_row("License", record["license"])
@@ -488,10 +539,26 @@ def render_record_page(record):
         record["declared_access_level"],
     )
     rows += detail_row("Creation tool", record["tool"])
-    rows += detail_row("Figures", record["figures"])
-    rows += detail_row("Tables", record["tables"])
-    rows += detail_row("Lists", record["lists"])
-    rows += detail_row("Notes", record["notes"])
+    rows += detail_row(
+        "Figures",
+        boolean_badge(record["figures"]),
+        raw_html=True,
+    )
+    rows += detail_row(
+        "Tables",
+        boolean_badge(record["tables"]),
+        raw_html=True,
+    )
+    rows += detail_row(
+        "Lists",
+        boolean_badge(record["lists"]),
+        raw_html=True,
+    )
+    rows += detail_row(
+        "Notes",
+        record["notes"],
+        class_name="notes",
+    )
     rows += detail_row("Original document", original_link, raw_html=True)
 
     canonical = html.escape(record["uri"], quote=True)
@@ -532,7 +599,7 @@ def render_record_page(record):
 """
 
 
-def render_home_page(record_count):
+def render_home_page(record_count, codebook_filename="codebook.md"):
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -581,7 +648,7 @@ def render_home_page(record_count):
         <span>Open the custom vocabulary used by the dataset.</span>
       </a>
 
-      <a class="card" href="codebook.html">
+      <a class="card" href="{html.escape(codebook_filename, quote=True)}">
         <strong>Codebook</strong>
         <span>Read the metadata field definitions.</span>
       </a>
@@ -656,7 +723,7 @@ def render_records_page(records):
 """
 
 
-STYLE_CSS = """
+STYLE_CSS = r"""
 :root {
   color-scheme: light;
   font-family:
@@ -727,10 +794,16 @@ h1 {
   background: #ffffff;
   border: 1px solid #dfe3eb;
   border-radius: 0.75rem;
+  transition:
+    border-color 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
 }
 
 .card:hover {
   border-color: #2457c5;
+  box-shadow: 0 8px 24px rgb(36 87 197 / 10%);
+  transform: translateY(-2px);
 }
 
 .card strong,
@@ -756,6 +829,7 @@ h1 {
   border: 1px solid #dfe3eb;
   border-radius: 0.75rem;
   overflow: hidden;
+  box-shadow: 0 10px 30px rgb(23 32 51 / 6%);
 }
 
 .metadata dt,
@@ -768,6 +842,80 @@ h1 {
 .metadata dt {
   font-weight: 700;
   background: #f1f3f7;
+}
+
+.metadata dt:last-of-type,
+.metadata dd:last-of-type {
+  border-bottom: 0;
+}
+
+.score-cell {
+  display: flex;
+  align-items: center;
+}
+
+.score,
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3.5rem;
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.88rem;
+  font-weight: 750;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+  border: 1px solid transparent;
+}
+
+.score-complete {
+  color: #12603a;
+  background: #dcf8e9;
+  border-color: #a9e7c8;
+}
+
+.score-high {
+  color: #174ea6;
+  background: #e5efff;
+  border-color: #bdd2fa;
+}
+
+.score-medium {
+  color: #7a4a00;
+  background: #fff3cd;
+  border-color: #f2d98b;
+}
+
+.score-low {
+  color: #8b2635;
+  background: #fde7eb;
+  border-color: #f2bcc6;
+}
+
+.badge-yes {
+  color: #12603a;
+  background: #dcf8e9;
+  border-color: #a9e7c8;
+}
+
+.badge-no {
+  color: #596273;
+  background: #f1f3f6;
+  border-color: #d8dde6;
+}
+
+.notes {
+  position: relative;
+  margin: 0.8rem 1rem !important;
+  padding: 0.9rem 1rem 0.9rem 1.15rem !important;
+  color: #536078;
+  background: #fafbfe;
+  border: 0 !important;
+  border-left: 4px solid #aab7d4 !important;
+  border-radius: 0.35rem;
+  font-style: italic;
+  white-space: pre-line;
 }
 
 .record-nav {
@@ -805,6 +953,14 @@ h1 {
 
   .metadata dd {
     padding-top: 0;
+  }
+
+  .score-cell {
+    padding-top: 0.25rem !important;
+  }
+
+  .notes {
+    margin-top: 0 !important;
   }
 }
 """.strip() + "\n"
@@ -845,7 +1001,7 @@ def main():
     )
     parser.add_argument(
         "--codebook",
-        help="Optional path to an HTML codebook to copy",
+        help="Optional path to a Markdown or HTML codebook to copy",
     )
     parser.add_argument(
         "--clean",
@@ -926,8 +1082,14 @@ def main():
             encoding="utf-8",
         )
 
+    codebook_filename = (
+        Path(args.codebook).name
+        if args.codebook
+        else "codebook.md"
+    )
+
     (output_dir / "index.html").write_text(
-        render_home_page(len(records)),
+        render_home_page(len(records), codebook_filename),
         encoding="utf-8",
     )
     (output_dir / "records.html").write_text(
@@ -945,7 +1107,7 @@ def main():
     )
     codebook_copied = copy_optional_file(
         args.codebook,
-        output_dir / "codebook.html",
+        output_dir / codebook_filename,
     )
 
     if warnings:

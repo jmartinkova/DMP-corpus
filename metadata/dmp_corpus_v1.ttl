@@ -1,0 +1,2843 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dmpc: <https://jmartinkova.github.io/DMP-corpus/ontology#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1004/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1004",
+        "189894" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "A European Framework for Transdisciplinary Education" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "TU Delft Data Management Plan template (2025)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1011/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1011",
+        "188853" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Scoping review: Does current evidence justify or challenge the use of the Fresh Eyes approach for intrapartum fetal monitoring in maternity services?" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Manchester Generic Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1012/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1012",
+        "187023" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Stereo-Consistent Hatching from Apparent Ridges for Improved Depth Perception in VR" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "TU Delft Data Management Plan template (2025)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1021/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1021",
+        "183456" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Advanced Chemical Sensors for Biodetection" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "EPSRC Data Management Plan" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1033/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1033",
+        "186431" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The Impact of the CSRD on Logistics: Scope 3 Emissions Reporting and Compliance Challenges" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1041/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1041",
+        "183548" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Biomechanical and Physical Demand of Acceleration Performance in Field-Based Sport Athletes" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1065/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1065",
+        "179325" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Improving value co-creation between client and consultants in front-end stages of infrastructure projects" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "TU Delft Data Management Plan template (2025)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1103/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1103",
+        "174271" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Fluoridation modifies the quantum coherence of near-infrared organic rare-earth molecules (FaMiQ)" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Manchester Generic Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1119/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1119",
+        "170420" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Validity check for C-P structure in usage on identifying influential nodes" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 0 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "University of Strathclyde" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1144/> a dmpc:DMPRecord ;
+    dcterms:description "no answeres." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1144",
+        "169531" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The lasting legacy of extreme global warming: Fossil floras and climates of  the Smithian-Spathian extinction event" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 0 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "Health Research Board DMP Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1158/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1158",
+        "157426" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Exploring The Influence Of Augmented Reality On Retail Sector In Southwest Of The Uk: Customer's Experience, Satisfaction And Purchase Decisions" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1176/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1176",
+        "159540" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Developing a Data note reporting guideline for qualitative health and social care research datasets (the D‚ÄônoTE study)" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Manchester Generic Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1189/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1189",
+        "161906" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "ON THE ORIGINS OF THE GOTHIC LEADER ALARIC:  BETWEen CLAUDIAN AND ZOSIMUS" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1220/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1220",
+        "152807" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Shaping a modern approach to open data from a World-leading science facility" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "STFC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1231/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1231",
+        "144935" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Exoskeleton Training for Spinal Cord Injury Neuropathic Pain (ExSCIP): A Phase 2 Feasibility Randomised Trial" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Health Research Board DMP Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1235/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimum filled informations." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1235",
+        "87280" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Management of integrated safety and security barriers in the process industries" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "TU Delft Data Management Plan template (2021)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1239/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1239",
+        "154938" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Development of a spiritually based psychosocial education program for family caregivers" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1243/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1243",
+        "155435" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "FIFA - The impact of ball pressure on cognition within current IFAB guidelines" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1244/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1244",
+        "128211" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "ERC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1251/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1251",
+        "87555" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Development of heterostructured semiconducting nanoparticles for methane conversion by photoelectrocatalytic process" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1254/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1254",
+        "153986" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Forest School National Survey" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "BSU Data Management Plan" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1257/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1257",
+        "150273" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The Cooley Connection" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables true ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1261/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. not in english." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1261",
+        "152934" ;
+    dcterms:language "es" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The role of time to positive blood cultures in enhancing the predictive capability of DenoVA score for diagnosing infective endocarditis in patients with enterococcus faecalis bacteremia" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables true ;
+    dmpc:template "DMPOnline Template (NWU)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/127/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording). Contains approach and explanation of data management in the project." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "127",
+        "o:1139438" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "FLORA Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139438> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1303/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1303",
+        "85128" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Head and neck paraganglioma registry" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "UMC Utrecht DMP" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1370/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "127643",
+        "1370" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Evaluating Stakeholder Perspectives on Smart Street Lighting: A Multi-Dimensional Framework" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "TU Delft Data Management Plan template (2021)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1374/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "131616",
+        "1374" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Employee Perception of Economic Outlook in Myanmar‚Äôs International Business environment: An Assessment of Optimism and Pessimism" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1378/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "127812",
+        "1378" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Strengthening Adaptive Resilience of Mountain Ecosystems and Communities" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "ESRC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1382/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "127973",
+        "1382" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Assessing the ecophysiological mechanisms underpinning thermal resilience in native and non-native shellfish in the Wadden Sea." ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data Management Plan NWO (September 2020)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1413/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "121858",
+        "1413" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Telecom-wavelength single-photon source based on organic erbium molecules" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Manchester Generic Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1414/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1414",
+        "92878" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Analgosedation after cardiac surgery in infants: A' model-based\" nation-wide randomized controlled trial" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data management ZonMw-template 2019" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1431/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "103451",
+        "1431" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Trinity College Botanic Garden long-term monitoring program" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables true ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/144/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Says H2020, but not containing relevant parts/questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "144",
+        "o:1139469" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "EFICONSUMPTION Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139469> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1459/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "111771",
+        "1459" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Beyond Boardrooms: The Impact of Corporate Quota on Gender Equality in Organizations" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data Management Plan NWO (September 2020)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1474/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "111715",
+        "1474" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Overcoming Implementation challenges of the Speech and Language Programme in a primary school using business operations management strategies." ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/148/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template parts but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "148",
+        "o:1139477" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "COHESIFY Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139477> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1480/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "110967",
+        "1480" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The effect of grammatical complexity and verb frequency in the acquisition of english using the Sentence Repetition Test" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "SHU Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1503/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "106845",
+        "1503" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "thRIve: The UK's EDI Caucus" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "ESRC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1521/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "103424",
+        "1521" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "RESEarch for healThy AGEING -  RESETageing" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1533/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "101322",
+        "1533" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Social Representations of European history" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data Management Plan for masters & undergraduate students" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1539/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1539",
+        "99820" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Cultural Biases in Banks‚Äô Sovereign Debt Exposures" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1544/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1544",
+        "99401" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "VR for Diversity" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data Management Plan NWO (September 2020)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1564/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1564",
+        "96859" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Paleoecology in Scandinavian peatlands" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "1. UvH template PhD/WP" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1579/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1579",
+        "87239" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Theological research on the theologian Thomas Boston" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "VU DMP template 2021 (NWO & ZonMW certified)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1581/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1581",
+        "94084" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "NWO Open Science 203.001.121: BridgeDb" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data Management Plan NWO (September 2020)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1590/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1590",
+        "92752" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The effects of study-abroad experience on Chinese in-service college EFL teachers‚Äô identity: A dialogical approach" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Manchester Generic Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1643/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1643",
+        "84810" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Mental Imagery Interviews" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1716/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1716",
+        "74857" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Development of Research Partnership in Hypertension Assessment with Smart E-textile Wearable Technology (RPHA)" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "NERC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1726/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1726",
+        "32890" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "A qualitative study exploring patient experiences of comfort during radiotherapy and radiographer views of managing patient comfort during the delivery of radiotherapy" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1736/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1736",
+        "72035" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Induce vascular networks in large degradable  porous scaffolds by influencing the local microenvironment; spatiotemporal control of growth factors and patterning of mechanical signals" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Swedish Research Council Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1737/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1737",
+        "73181" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Political Language, Restriction Compliance, and COVID-19" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Data Management Plan for masters & undergraduate students" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1742/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1742",
+        "64637" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Interventions Following Fractures of the Spine In the Aged Patient, Linked to Quality of Life Outcomes" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "UMC Utrecht DMP" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/175/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "175",
+        "o:1139527" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "HybridHeart Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139527> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1792/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1792",
+        "59306" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "A new approach to nonperturbative physics" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Amsterdam Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1805/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1805",
+        "47319" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "The Subjective Perception of Sensory Information: Investigating Formats of Mental Representations" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "ESRC Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1816/> a dmpc:DMPRecord ;
+    dcterms:description "Deprecated template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1816",
+        "54299" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Worlding Public Cultures: The Arts and Social Innovation" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "For grants awarded before 1 January 2020 - Data Management Plan NWO (english)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1873/> a dmpc:DMPRecord ;
+    dcterms:description "Deprecated template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1873",
+        "42046" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Simulating tourism water consumption with stakeholders (SIMTWIST)" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "For grants awarded before 1 January 2020 - Data Management Plan NWO (english)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1878/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1878",
+        "40690" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Does the source of foreign aid affect democratization in recipient nations? - A study of chinese aid" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "LSE Data Management Plan for undergraduate and master's students dissertations" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1884/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1884",
+        "39671" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "To transform a laboratory-proven disinfection by-product sensor into a validated reliable sensor network for water distribution systems." ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "EPSRC Data Management Plan" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1885/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1885",
+        "38854" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Biomarkers of Shoulder Pathologies in Synovial Fluid" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "University of Manchester Generic Template" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/1907/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions. Minimal information." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "1907",
+        "29977" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Modelling tools for complex systems: advancing the capability of many body dissipative particle dynamics" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "EPSRC Data Management Plan" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/225/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "225",
+        "o:1139649" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "KINDRA Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139649> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/242/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "242",
+        "o:1139694" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "MaX Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139694> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/272/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Organized by work packages." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "272",
+        "o:1139789" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "DESIR Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139789> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/297/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "297",
+        "o:1139865" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "RESIST Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139865> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/30/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "30",
+        "o:1139193" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "INFORM Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 80 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 100 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139193> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/303/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "303",
+        "o:1139993" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "NATHenA Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139993> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/306/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "306",
+        "o:1140002" ;
+    dcterms:language "en" ;
+    dcterms:license "MIT" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "PRECRIME Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1140002> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/309/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "309",
+        "o:1140011" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "NICI Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1140011> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/333/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "333",
+        "o:1139882" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "REACH Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139882> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/334/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "334",
+        "o:1139884" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "CAPTAIN Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139884> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/335/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "335",
+        "o:1139886" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "SenSE Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139886> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/338/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "338",
+        "o:1139895" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "NEXTFOOD Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139895> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/339/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "339",
+        "o:1139897" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "VALITEST Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139897> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/341/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "341",
+        "o:1139905" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "RELACS Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139905> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/351/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Primarily describes project and data-management practices." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "351",
+        "o:1139974" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "BigDataStack Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139974> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/353/> a dmpc:DMPRecord ;
+    dcterms:created "2025-08-25"^^xsd:date ;
+    dcterms:description "Primarily describes project and data-management practices." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "353",
+        "o:2140826" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "Data Management Plan (DMP)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 0 ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:2140826> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/357/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "357",
+        "o:1139144" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "Residue2Heat Data Management plan - M12" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139144> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/37/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains section headings only; questions are omitted." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "37",
+        "o:1139211" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "ICO2CHEM Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139211> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/388/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "388",
+        "o:1139262" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "AgriDemo-F2F Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139262> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/405/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "405",
+        "o:1139322" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "OPRECOMP Initial data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139322> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/412/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "412",
+        "o:1139337" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "WeObserve WeObserve data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139337> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/418/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "418",
+        "o:1139353" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "A-Patch Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139353> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/431/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "431",
+        "o:1139411" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "OceanSET Project data management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139411> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/443/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "443",
+        "o:1139472" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "MARINERGI Draft Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139472> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/46/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "References Horizon 2020 but primarily describes project and data-management practices." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "46",
+        "o:1139231" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "MELLODDY Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139231> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/460/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Says H2020, but the parts/questions are not the same." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "460",
+        "o:1139540" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "LIQUEFACT Data Management Plan v3" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139540> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/471/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "471",
+        "o:1139575" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "SARAFun Draft Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139575> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/504/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Organized by work packages." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "504",
+        "o:1139684" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "CHEOPS Data Management Plan (DMP)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139684> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/51/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains section headings only; organized by work packages." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "51",
+        "o:1139241" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "FORCE Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139241> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/514/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "514",
+        "o:1139704" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "Open4Citizens Data Management Plan (Midterm)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 100 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139704> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/538/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording). Organized by partners." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "538",
+        "o:1139790" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "VESSEDIA Data Management Plan (DMP)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139790> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/574/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "574",
+        "o:1139921" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "ERSAT GGC Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139921> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/579/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "579",
+        "o:1139938" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "CIRC4Life \"Data Management Plan - #1\"" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139938> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/590/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "590",
+        "o:1139868" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "HARVEST Data management Plan - Research data repository" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139868> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/591/> a dmpc:DMPRecord ;
+    dcterms:created "2017-03-01"^^xsd:date ;
+    dcterms:description "not in english." ;
+    dcterms:identifier "591",
+        "o:367863" ;
+    dcterms:language "de" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "Data Management Plan - Eine Anleitung zur Erstellung von Data Management Pl√§nen. Projekt e-Infrastructures Austria (Deutsch): Eine Anleitung zur dauerhaften Sicherung von digitalen Best√§nden" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:367863> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/620/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "620",
+        "o:1139287" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "MendTheGap Data management plan ‚Äì Pilot participation" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139287> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/627/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording) and additional sections." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "627",
+        "o:1139351" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "INTERMODEL EU Data Management plan 1" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139351> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/659/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "659",
+        "o:1139709" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "STARS4ALL Data Management Plan (initial version)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139709> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/687/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "687",
+        "o:1140048" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "CityxChange Data Management Plan (Initial version)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1140048> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/695/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "695",
+        "o:1139943" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "S2S4E Data Management Plan (DMP) presentation" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139943> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/720/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "720",
+        "o:1139339" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "ACTRIS PPP ACTRIS PPP data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139339> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/73/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Licence: Open Research Data Pilot. Says H2020, but not containing relevant parts/questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "73",
+        "o:1139297" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "SMARTFISH Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139297> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/735/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Includes Data Access Agreement." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "735",
+        "o:1139594" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "MAGIC Creation of a data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139594> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/737/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "737",
+        "o:1139650" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "CYTO-WATER Data Management Plan (Draft version)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139650> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/74/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections with modified wording." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "74",
+        "o:1139298" ;
+    dcterms:language "en" ;
+    dcterms:license "CC BY-NC 4.0" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "GRECO Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139298> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/77/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "77",
+        "o:1139303" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "FABLABIA Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139303> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/777/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "777",
+        "o:1139698" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "INno-4-AGRIFOOD Data Management Plan ‚Äì Interim version" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139698> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/784/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Table for each dataset. Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "784",
+        "o:1139450" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "FarFish Data Management Plan under the H2020 Open Research Data Pilot" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 50 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139450> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/785/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "unknown template." ;
+    dcterms:identifier "785",
+        "o:1139581" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "SSIX Data Requirement Analysis and Data Managment Plan V1" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 100 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139581> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/79/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording).Contains approach and explanation of data management in the project." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "79",
+        "o:1139306" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "ROSSINI Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139306> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/799/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "799",
+        "o:1139568" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "GAIA-CLIM Data management plan commensurate with Pilot on Open Research Data v3" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139568> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/804/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "804",
+        "o:1139359" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "A-LEAF A-LEAF Data Management plan - Update 24 months" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139359> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/83/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "83",
+        "o:1139331" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "Bio4Comp Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139331> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/832/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "832",
+        "o:1139599" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "DOLFINS Open Research Data Work Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139599> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/834/> a dmpc:DMPRecord ;
+    dcterms:created "2017-03-01"^^xsd:date ;
+    dcterms:description "Userguide to DMP (using DMPOnline)" ;
+    dcterms:identifier "834",
+        "o:407951" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "DMP Online User Guide for Creating Data Management Plans using DMPOnline" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:template "unknown" ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:407951> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/889/> a dmpc:DMPRecord ;
+    dcterms:created "2025-12-01"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.17779914",
+        "889" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "TRANSPATH - Data Management Plan - M6" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/17779915> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/890/> a dmpc:DMPRecord ;
+    dcterms:created "2020-06-30"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.5705980",
+        "890" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "Data Management Plan: Initial" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/5705981> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/891/> a dmpc:DMPRecord ;
+    dcterms:created "2024-07-05"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.12663670",
+        "891" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "FAIRiCUBE Deliverable D6.2 Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon Europe" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/12663671> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/892/> a dmpc:DMPRecord ;
+    dcterms:created "2019-01-04"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording). Organized by work packages." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.2531125",
+        "892" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "D1.5: 3rd Data Management Report" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 90 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://zenodo.org/records/2531126> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/893/> a dmpc:DMPRecord ;
+    dcterms:created "2020-05-13"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording). Later part is organized by work packages." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3824772",
+        "893" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "Data Management Plan M6" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/3824773> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/894/> a dmpc:DMPRecord ;
+    dcterms:created "2020-06-30"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording). Organized by WP/data types in the project." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3931490",
+        "894" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "D1.6 SSHOC Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/4558274> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/897/> a dmpc:DMPRecord ;
+    dcterms:created "2026-01-14"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.18246565",
+        "897" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "D8.4 Data Management Plan and Ethics Report" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://zenodo.org/records/18246566> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/898/> a dmpc:DMPRecord ;
+    dcterms:created "2024-12-09"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.14571863",
+        "898" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "Data Management Plan of FISM, \"Fighting with a Smile: Satirical and Humourist Voices of Resilience from Hindi Speaking Subaltern Subjects and Communities\"" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon Europe" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/14571864> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/900/> a dmpc:DMPRecord ;
+    dcterms:created "2024-09-30"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.14162233",
+        "900" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "EU-CHINA BRIDGE: D7.6 – Data Management Plan V1" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/14162234> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/902/> a dmpc:DMPRecord ;
+    dcterms:created "2024-02-01"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.10606921",
+        "902" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "D7.2 Initial Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/10606922> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/904/> a dmpc:DMPRecord ;
+    dcterms:created "2019-11-14"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3736775",
+        "904" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "Data management plan. 1st version (Deliverable 3.1)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/3736776> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/905/> a dmpc:DMPRecord ;
+    dcterms:created "2022-12-31"^^xsd:date ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.7650028",
+        "905" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "CoActD1.4: Final Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 100 ;
+    schema:url <https://zenodo.org/records/7650029> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/906/> a dmpc:DMPRecord ;
+    dcterms:created "2022-03-30"^^xsd:date ;
+    dcterms:description "Contains template parts (different wording) but different subparts (and wording where same parts)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.15189726",
+        "906" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "D1.6: Data management plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 30 ;
+    schema:url <https://zenodo.org/records/15189727> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/907/> a dmpc:DMPRecord ;
+    dcterms:created "2024-07-03"^^xsd:date ;
+    dcterms:description "Contain template parts and questions, but most answers are unknown (or in table but not answering everything)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.12633717",
+        "907" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "D6.2 Data Management Plan (first version)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 20 ;
+    schema:url <https://zenodo.org/records/12633718> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/908/> a dmpc:DMPRecord ;
+    dcterms:created "2019-09-27"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3554430",
+        "908" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "Zenodo" ;
+    dcterms:title "OPEUS D9.3 - Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 30 ;
+    schema:url <https://zenodo.org/records/3554431> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/909/> a dmpc:DMPRecord ;
+    dcterms:created "2023-01-05"^^xsd:date ;
+    dcterms:description "Does not allign with HE template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.10462740",
+        "909" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Data Management Plan: SHAREWIND - Shared anchors for floating wind turbines" ;
+    dmpc:creationTool "Argos" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon Europe" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://zenodo.org/records/10462740> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/913/> a dmpc:DMPRecord ;
+    dcterms:created "2025-12-31"^^xsd:date ;
+    dcterms:description "Contains template sections but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.10061048",
+        "913" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "TWEET-IE Deliverable 6.3: Data Management Plan" ;
+    dmpc:creationTool "Argos" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon Europe" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/17361082> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/917/> a dmpc:DMPRecord ;
+    dcterms:created "2025-04-30"^^xsd:date ;
+    dcterms:description "Resembles a Horizon Europe / Horizon 2020 DMP, but uses a different section structure." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.15308996",
+        "917" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Data Management Plan for the LZP FLPP Project Optical Neural Networks Leveraging Synthetic Dimension (DIMenSION) (Nr. lzp-2024/1-0612)" ;
+    dmpc:creationTool "Argos" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://zenodo.org/records/15309013> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/918/> a dmpc:DMPRecord ;
+    dcterms:created "2020-06-22"^^xsd:date ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3903258",
+        "918" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Prenatal microbial impacts on the development of the intestinal immune system - DMP" ;
+    dmpc:creationTool "DMPTuuli" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://zenodo.org/records/3903259> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/921/> a dmpc:DMPRecord ;
+    dcterms:created "2020-05-13"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording). Organized by WP/data types in the project." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3824772",
+        "921" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Data Management Plan M6" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://zenodo.org/records/3824773> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/922/> a dmpc:DMPRecord ;
+    dcterms:created "2022-04-07"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3497405",
+        "922" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "C0PEP0D projet - Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://zenodo.org/records/6421146> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/924/> a dmpc:DMPRecord ;
+    dcterms:created "2023-11-13"^^xsd:date ;
+    dcterms:description "Over 300 pages! Resembles a Horizon Europe / Horizon 2020 DMP, but uses a different section structure." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.7261408",
+        "924" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "SeaMark M18 update" ;
+    dmpc:creationTool "Argos" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://zenodo.org/records/10117908> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/925/> a dmpc:DMPRecord ;
+    dcterms:created "2023-03-06"^^xsd:date ;
+    dcterms:description "Resembles a Horizon Europe / Horizon 2020 DMP, but uses a different section structure." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.7701206",
+        "925" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Multilayer photonic integration platform for free space optics - Data Management Plan" ;
+    dmpc:creationTool "Argos" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://zenodo.org/records/7701207> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/926/> a dmpc:DMPRecord ;
+    dcterms:created "2023-09-06"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.8321677",
+        "926" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Data management plan for DECISION (D8.2)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon Europe" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/8321678> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/928/> a dmpc:DMPRecord ;
+    dcterms:created "2020-11-30"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording). One section differs substantially." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.4160976",
+        "928" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "DATA MANAGEMenT PLAN FOR THE MOSAIC.PT PROJECT" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://zenodo.org/records/4160977> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/93/> a dmpc:DMPRecord ;
+    dcterms:created "2025-05-31"^^xsd:date ;
+    dcterms:description "Says H2020, but not containing relevant parts/questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "93",
+        "o:1139370" ;
+    dcterms:language "en" ;
+    dcterms:license "All rights reserved" ;
+    dcterms:source "TU Vien" ;
+    dcterms:title "WEAR Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://phaidra.univie.ac.at/detail/o:1139370> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/930/> a dmpc:DMPRecord ;
+    dcterms:created "2019-03-30"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.3689348",
+        "930" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Data Management Plan (ISLAM-OPHOB-ISM, 785934)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 50 ;
+    schema:url <https://zenodo.org/records/3689349> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/933/> a dmpc:DMPRecord ;
+    dcterms:created "2020-02-28"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "DOCX" ;
+    dcterms:identifier "10.20350/digitalCSIC/13755",
+        "933" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Project: Planar architecture all solid state batteries. PLARASBAT Project ID:4023. Data Management Plan v 1.0" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://digital.csic.es/handle/10261/230346> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/935/> a dmpc:DMPRecord ;
+    dcterms:created "2022-12-03"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.7476529",
+        "935" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "D1.1 Data Management Plan" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "Horizon Europe" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://zenodo.org/records/7476530> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/938/> a dmpc:DMPRecord ;
+    dcterms:created "2023-12-07"^^xsd:date ;
+    dcterms:description "Contains template sections (different wording) but no questions (or modified wording)." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "938",
+        "https://doi.org/10.20350/digitalCSIC/15704" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "Horizon 2020 DMP - The European Qur’an. Islamic Scripture in European Culture and Religion 1150-1850 (Version 2)" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures true ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "Horizon 2020" ;
+    dmpc:templateCorrespondence 80 ;
+    schema:url <https://digital.csic.es/handle/10261/340321> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/942/> a dmpc:DMPRecord ;
+    dcterms:created "2021-04-13"^^xsd:date ;
+    dcterms:description "Unkown template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "10.5281/zenodo.4683414",
+        "942" ;
+    dcterms:language "en" ;
+    dcterms:license "CC-BY" ;
+    dcterms:source "EOSC" ;
+    dcterms:title "CINECA Data Management Plan v2" ;
+    dmpc:creationTool "unknown" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "unknown" ;
+    dmpc:templateCorrespondence 0 ;
+    schema:url <https://zenodo.org/records/4683415> .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/968/> a dmpc:DMPRecord ;
+    dcterms:description "Institution specific template." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "190233",
+        "968" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Presenting fabrics online: how to increase perception accuracy?" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables true ;
+    dmpc:template "TU Delft Data Management Plan template (2025)" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/975/> a dmpc:DMPRecord ;
+    dcterms:description "not in english." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "193623",
+        "975" ;
+    dcterms:language "fr" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "CLSR ARCHIVES NUMERIQUES" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists true ;
+    dmpc:hasTables false ;
+    dmpc:template "DMP UNIL en fran√ßais" ;
+    dmpc:templateCorrespondence 100 .
+
+<https://jmartinkova.github.io/DMP-corpus/dmp/984/> a dmpc:DMPRecord ;
+    dcterms:description "Contains template parts and questions." ;
+    dcterms:format "PDF" ;
+    dcterms:identifier "193171",
+        "984" ;
+    dcterms:language "en" ;
+    dcterms:license "unknown" ;
+    dcterms:source "DMPonline" ;
+    dcterms:title "Motivating Security engagement and Compliance: Exploring Human-Centric Cyber Security Awareness and engagement" ;
+    dmpc:creationTool "DMPonline" ;
+    dmpc:declaredAccessLevel "Public" ;
+    dmpc:estimatedCompleteness 100 ;
+    dmpc:hasFigures false ;
+    dmpc:hasLists false ;
+    dmpc:hasTables false ;
+    dmpc:template "DCC Template" ;
+    dmpc:templateCorrespondence 100 .
+
