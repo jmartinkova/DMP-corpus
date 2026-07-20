@@ -1,0 +1,96 @@
+@prefix dmpc: <https://example.org/dmp-corpus/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/dmp-corpus/ontology>
+    a owl:Ontology ;
+    dcterms:title "DMP Corpus Vocabulary"@en ;
+    dcterms:description
+        "A lightweight vocabulary for curator-created metadata describing Data Management Plans in the DMP Corpus."@en ;
+    dcterms:creator "Jana Martínková" ;
+    dcterms:created "2026-07-20"^^xsd:date ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    owl:versionInfo "1.0" .
+
+#################################################################
+# Class
+#################################################################
+
+dmpc:DMPRecord
+    a owl:Class ;
+    rdfs:label "DMP corpus record"@en ;
+    rdfs:comment
+        "A curated metadata record describing a Data Management Plan included in the DMP Corpus."@en ;
+    rdfs:subClassOf schema:DigitalDocument .
+
+#################################################################
+# Properties
+#################################################################
+
+dmpc:template
+    a owl:DatatypeProperty ;
+    rdfs:label "template"@en ;
+    rdfs:comment
+        "The template, framework, or funder-specific structure identified by the curator as being used by the DMP."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:string .
+
+dmpc:templateCorrespondence
+    a owl:DatatypeProperty ;
+    rdfs:label "template correspondence"@en ;
+    rdfs:comment
+        "Curator-estimated correspondence between the structure and sections of the DMP and the identified template. The value represents an expert assessment rather than an exact count."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:integer .
+
+dmpc:estimatedCompleteness
+    a owl:DatatypeProperty ;
+    rdfs:label "estimated completeness"@en ;
+    rdfs:comment
+        "Curator-estimated degree to which the DMP addresses the identified template. The value represents an expert assessment rather than an exact quantitative measure."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:integer .
+
+dmpc:declaredAccessLevel
+    a owl:DatatypeProperty ;
+    rdfs:label "declared access level"@en ;
+    rdfs:comment
+        "The access level explicitly declared in the original DMP or its source metadata, independently of the document's license statement."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:string .
+
+dmpc:creationTool
+    a owl:DatatypeProperty ;
+    rdfs:label "creation tool"@en ;
+    rdfs:comment
+        "The software tool or online platform identified as having been used to create or manage the DMP."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:string .
+
+dmpc:hasFigures
+    a owl:DatatypeProperty ;
+    rdfs:label "has figures"@en ;
+    rdfs:comment
+        "Indicates whether the DMP contains one or more figures."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:boolean .
+
+dmpc:hasTables
+    a owl:DatatypeProperty ;
+    rdfs:label "has tables"@en ;
+    rdfs:comment
+        "Indicates whether the DMP contains one or more tables, excluding a metadata table appearing only on the first page."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:boolean .
+
+dmpc:hasLists
+    a owl:DatatypeProperty ;
+    rdfs:label "has lists"@en ;
+    rdfs:comment
+        "Indicates whether the DMP contains one or more structured lists."@en ;
+    rdfs:domain dmpc:DMPRecord ;
+    rdfs:range xsd:boolean .

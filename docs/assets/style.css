@@ -1,0 +1,150 @@
+:root {
+  color-scheme: light;
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  line-height: 1.55;
+  color: #172033;
+  background: #f7f8fb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: #2457c5;
+}
+
+.site-header {
+  padding: 1rem max(1.25rem, calc((100vw - 920px) / 2));
+  background: #ffffff;
+  border-bottom: 1px solid #dfe3eb;
+  font-weight: 700;
+}
+
+main {
+  width: min(920px, calc(100% - 2.5rem));
+  margin: 0 auto;
+  padding: 4rem 0 6rem;
+}
+
+h1 {
+  margin-top: 0.25rem;
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1.05;
+}
+
+.eyebrow {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #647087;
+}
+
+.lede {
+  max-width: 42rem;
+  font-size: 1.25rem;
+}
+
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.card {
+  display: block;
+  padding: 1.25rem;
+  color: inherit;
+  text-decoration: none;
+  background: #ffffff;
+  border: 1px solid #dfe3eb;
+  border-radius: 0.75rem;
+}
+
+.card:hover {
+  border-color: #2457c5;
+}
+
+.card strong,
+.card span {
+  display: block;
+}
+
+.card span {
+  margin-top: 0.5rem;
+  color: #5d687d;
+}
+
+.uri {
+  overflow-wrap: anywhere;
+  color: #5d687d;
+}
+
+.metadata {
+  display: grid;
+  grid-template-columns: minmax(160px, 220px) 1fr;
+  margin: 2.5rem 0;
+  background: #ffffff;
+  border: 1px solid #dfe3eb;
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+.metadata dt,
+.metadata dd {
+  margin: 0;
+  padding: 0.9rem 1rem;
+  border-bottom: 1px solid #e7eaf0;
+}
+
+.metadata dt {
+  font-weight: 700;
+  background: #f1f3f7;
+}
+
+.record-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.record-list {
+  padding-left: 1.5rem;
+}
+
+.record-list li {
+  padding: 0.55rem 0;
+}
+
+.record-meta {
+  margin-left: 0.5rem;
+  color: #68748a;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 640px) {
+  main {
+    padding-top: 2.5rem;
+  }
+
+  .metadata {
+    display: block;
+  }
+
+  .metadata dt {
+    border-bottom: 0;
+  }
+
+  .metadata dd {
+    padding-top: 0;
+  }
+}
