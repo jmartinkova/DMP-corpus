@@ -15,6 +15,7 @@ import json
 import re
 import shutil
 import sys
+import markdown
 from pathlib import Path
 from urllib.parse import quote
 
@@ -653,6 +654,25 @@ def render_home_page(record_count, codebook_filename="codebook.md"):
         <span>Read the metadata field definitions.</span>
       </a>
     </div>
+    <section class="info-section">
+    <h2>Citation</h2>
+    <p>
+        If you use this dataset in research, please cite the DMP Corpus.
+        A citable release will be archived on Zenodo. Citation details
+        and a DOI will be added with the first public release.
+    </p>
+
+    <h2>License</h2>
+    <p>
+        The curated metadata and RDF representations are licensed under
+        the Creative Commons Attribution 4.0 International License
+        (CC BY 4.0).
+    </p>
+    <p>
+        Original DMP documents are not redistributed and remain subject
+        to their respective licenses and terms of use.
+    </p>
+    </section>
   </main>
 </body>
 </html>
@@ -978,6 +998,45 @@ def copy_optional_file(source, destination):
     shutil.copy2(source_path, destination)
     return True
 
+def build_codebook(source, destination):
+    if source is None:
+        return False
+
+    source_path = Path(source)
+
+    if not source_path.exists():
+        return False
+
+    markdown_text = source_path.read_text(encoding="utf-8")
+
+    content = markdown.markdown(
+        markdown_text,
+        extensions=["tables", "fenced_code"],
+    )
+
+    page = f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Codebook — DMP Corpus</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="./">DMP Corpus</a>
+  </header>
+
+  <main class="codebook">
+    {content}
+  </main>
+</body>
+</html>
+"""
+
+    destination.write_text(page, encoding="utf-8")
+    return True
+
 
 def main():
     parser = argparse.ArgumentParser(
@@ -1105,7 +1164,7 @@ def main():
         args.ontology,
         output_dir / "ontology_dmpc.ttl",
     )
-    codebook_copied = copy_optional_file(
+    codebook_copied = build_codebook(
         args.codebook,
         output_dir / codebook_filename,
     )

@@ -179,11 +179,18 @@ representative of all existing Data Management Plans.
 
 ## License
 
-The metadata in this repository are released under the CC0 1.0 Universal
-license.
+The curated metadata and RDF representations in this repository are
+licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
 
-The original DMP documents remain subject to their respective licenses
-and terms of use.
+When reusing the dataset, appropriate credit should be given to the
+DMP Corpus and its author.
+
+The license applies only to the metadata and RDF representations created
+as part of the DMP Corpus. Original DMP documents are not redistributed
+and remain subject to their respective licenses and terms of use.
+
+See [`LICENSE`](LICENSE) for details.
 
 ---
 
