@@ -1141,11 +1141,7 @@ def main():
             encoding="utf-8",
         )
 
-    codebook_filename = (
-        Path(args.codebook).name
-        if args.codebook
-        else "codebook.md"
-    )
+    codebook_filename = "codebook.html" if args.codebook else "codebook.md"
 
     (output_dir / "index.html").write_text(
         render_home_page(len(records), codebook_filename),
@@ -1166,7 +1162,7 @@ def main():
     )
     codebook_copied = build_codebook(
         args.codebook,
-        output_dir / codebook_filename,
+        output_dir / "codebook.html",
     )
 
     if warnings:
