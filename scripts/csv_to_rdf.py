@@ -600,7 +600,7 @@ def render_record_page(record):
 """
 
 
-def render_home_page(record_count, codebook_filename="codebook.md"):
+def render_home_page(record_count, codebook_filename="codebook.html"):
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1141,7 +1141,7 @@ def main():
             encoding="utf-8",
         )
 
-    codebook_filename = "codebook.html" if args.codebook else "codebook.md"
+    codebook_filename = "codebook.html"
 
     (output_dir / "index.html").write_text(
         render_home_page(len(records), codebook_filename),
