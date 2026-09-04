@@ -450,6 +450,15 @@ def add_record_to_graph(graph, record):
             record["tool"],
         )
 
+def jsonld_linked_value(label, url):
+    if url is not None:
+        return {"@id": url}
+
+    if label is not None:
+        return label
+
+    return None
+
 
 def jsonld_for_record(record):
     data = {
@@ -496,17 +505,29 @@ def jsonld_for_record(record):
     mapping = {
         "title": record["name"],
         "created": record["date"],
-        "source": record["source"],
+        "source": jsonld_linked_value(
+            record["source"],
+            record["source_url"],
+        ),
         "format": record["format"],
         "language": record["language"],
-        "license": record["license"],
+        "license": jsonld_linked_value(
+            record["license"],
+            record["license_url"],
+        ),
         "description": record["notes"],
         "url": record["direct_link"],
-        "template": record["template"],
+        "template": jsonld_linked_value(
+            record["template"],
+            record["template_url"],
+        ),
         "templateCorrespondence": record["template_correspondence"],
         "estimatedCompleteness": record["estimated_completeness"],
         "declaredAccessLevel": record["declared_access_level"],
-        "creationTool": record["tool"],
+        "creationTool": jsonld_linked_value(
+            record["tool"],
+            record["tool_url"],
+        ),
         "hasFigures": record["figures"],
         "hasTables": record["tables"],
         "hasLists": record["lists"],

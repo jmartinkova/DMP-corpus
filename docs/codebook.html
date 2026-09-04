@@ -13,8 +13,7 @@
 
   <main class="codebook">
     <h1>Codebook</h1>
-<p>This document describes the metadata fields included in the DMP Corpus
-dataset.</p>
+<p>This document describes the metadata fields included in the DMP Corpus dataset.</p>
 <h2>Metadata Fields</h2>
 <table>
 <thead>
@@ -32,18 +31,23 @@ dataset.</p>
 </tr>
 <tr>
 <td><code>Source</code></td>
-<td>Repository or platform from which the DMP was collected.</td>
+<td>Repository, platform, or other source from which the DMP was collected.</td>
 <td>Free text</td>
 </tr>
 <tr>
+<td><code>Source Link</code></td>
+<td>URL of the repository, platform, or other source from which the DMP was collected, when available.</td>
+<td>URL / Unknown</td>
+</tr>
+<tr>
 <td><code>Direct DMP Link</code></td>
-<td>URL pointing to the original publicly available DMP or its landing page.</td>
-<td>URL</td>
+<td>URL pointing to the original publicly available DMP or its landing page, when available.</td>
+<td>URL / Unknown</td>
 </tr>
 <tr>
 <td><code>Public ID</code></td>
-<td>Public identifier assigned by the original repository (e.g., DOI or repository-specific identifier).</td>
-<td>DOI / repository-specific identifier</td>
+<td>Public identifier assigned by the original repository or platform, when available (e.g., DOI or repository-specific identifier).</td>
+<td>DOI / repository-specific identifier / Unknown</td>
 </tr>
 <tr>
 <td><code>Name</code></td>
@@ -57,23 +61,33 @@ dataset.</p>
 </tr>
 <tr>
 <td><code>Format</code></td>
-<td>File format of the DMP (e.g., PDF, DOCX, HTML).</td>
+<td>File format of the DMP.</td>
 <td>PDF, DOCX, HTML, TXT, ...</td>
 </tr>
 <tr>
 <td><code>Template</code></td>
-<td>Template or framework used to create the DMP, if identifiable.</td>
-<td>Horizon Europe, Horizon 2020, Science Europe, ...</td>
+<td>Template or framework used to create the DMP, when identifiable.</td>
+<td>Template name / Unknown</td>
+</tr>
+<tr>
+<td><code>Template Source</code></td>
+<td>URL providing information about or access to the identified template, when available.</td>
+<td>URL / Unknown</td>
 </tr>
 <tr>
 <td><code>Language</code></td>
 <td>Language of the document.</td>
-<td>ISO 639-1 language codes (e.g., <code>en</code>, <code>cs</code>, <code>de</code>, <code>es</code>, <code>fr</code>, ...)</td>
+<td>ISO 639-1 language code (e.g., <code>en</code>, <code>cs</code>, <code>de</code>, <code>es</code>, <code>fr</code>, ...)</td>
 </tr>
 <tr>
 <td><code>License</code></td>
-<td>License information associated with the original DMP.</td>
-<td>CC BY, CC BY-SA, CC0, All rights reserved, unknown, ...</td>
+<td>License or rights statement associated with the original DMP, when available.</td>
+<td>CC BY, CC BY-SA, CC0, All rights reserved, Unknown, ...</td>
+</tr>
+<tr>
+<td><code>License Link</code></td>
+<td>URL of the identified license, when an applicable license URI is available.</td>
+<td>URL / Unknown</td>
 </tr>
 <tr>
 <td><code>Parts/Questions according to template</code></td>
@@ -91,9 +105,19 @@ dataset.</p>
 <td>Public / Restricted / Unknown</td>
 </tr>
 <tr>
+<td><code>Notes</code></td>
+<td>Additional curator notes regarding document structure, template compliance, language, or other relevant characteristics.</td>
+<td>Free text</td>
+</tr>
+<tr>
 <td><code>Tool</code></td>
 <td>Tool or platform used to create or manage the DMP, when known.</td>
-<td>DMPonline, Data Stewardship Wizard, Argos, unknown, ...</td>
+<td>DMPonline, Argos, DMPTuuli, Unknown, ...</td>
+</tr>
+<tr>
+<td><code>Tool Link</code></td>
+<td>URL of the identified DMP creation or management tool, when available.</td>
+<td>URL / Unknown</td>
 </tr>
 <tr>
 <td><code>Figures</code></td>
@@ -110,28 +134,16 @@ dataset.</p>
 <td>Indicates whether the DMP contains lists or enumerations.</td>
 <td>YES / NO</td>
 </tr>
-<tr>
-<td><code>Notes</code></td>
-<td>Additional curator notes regarding document structure, template compliance, language, or other relevant characteristics.</td>
-<td>Free text</td>
-</tr>
 </tbody>
 </table>
 <h2>Notes on Interpretation</h2>
-<p>Some metadata fields were created through manual review and may involve
-curator interpretation.</p>
-<p>Template identification was based on explicit references within the
-document whenever possible. In some cases, the template could not be
-identified unambiguously.</p>
-<p>The <code>Parts/Questions according to template</code> field reflects the extent to which the document
-follows the identified template structure. It does not evaluate the
-quality of the content.</p>
-<p>The <code>Completeness</code> field indicates the degree to which the DMP addresses the
-questions or sections defined by the identified template. It does not
-assess the quality or adequacy of the responses.</p>
-<p>The <code>Notes</code> field contains observations about structural characteristics
-of the DMPs and should not be interpreted as an assessment of scientific
-quality.</p>
+<p>Some metadata fields were created through manual review and may involve curator interpretation.</p>
+<p>Template identification was based on explicit references within the document whenever possible. In some cases, the template could not be identified unambiguously.</p>
+<p>The <code>Parts/Questions according to template</code> field reflects the extent to which the document follows the identified template structure. It does not evaluate the quality of the content.</p>
+<p>The <code>Completeness</code> field indicates the degree to which the DMP addresses the questions or sections defined by the identified template. It does not assess the quality or adequacy of the responses.</p>
+<p>The <code>Notes</code> field contains observations about structural characteristics of the DMPs and should not be interpreted as an assessment of scientific quality.</p>
+<p>The value <code>unknown</code> is used in the CSV representation where information could not be identified or was not available during curation. On the human-readable record pages, such missing values are displayed as <em>Not available</em>. Missing or unknown values are generally omitted from the RDF representation.</p>
+<p>The <code>Source Link</code>, <code>Template Source</code>, <code>License Link</code>, and <code>Tool Link</code> fields provide links to external resources where such links could be identified. In the RDF representation, these links are represented as resource URIs where available; otherwise, the corresponding textual metadata value may be retained as a literal.</p>
   </main>
 </body>
 </html>
