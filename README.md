@@ -1,12 +1,12 @@
 # DMP Corpus
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22304640.svg)](https://doi.org/10.5281/zenodo.22304640)
+
 A curated corpus of publicly available Data Management Plans (DMPs)
 collected from multiple repositories and manually reviewed for
 structural and metadata characteristics.
 
-🌐 Project website:
-
-https://jmartinkova.github.io/DMP-corpus/
+🌐 Project website: https://jmartinkova.github.io/DMP-corpus/
 
 ---
 
@@ -25,7 +25,7 @@ The repository provides:
 - curated metadata in CSV format;
 - an RDF/Turtle representation of the dataset;
 - a lightweight ontology describing corpus-specific concepts;
-- human-readable web pages and persistent identifiers for individual DMP records.
+- human-readable web pages and stable web URIs for individual DMP records.
 
 ---
 
@@ -68,7 +68,7 @@ DMP-corpus/
 │   ├── dmp/
 │   │   ├── ...
 │   │   └── index.html
-│   ├── codebook.md
+│   ├── codebook.html
 │   ├── ontology_dmpc.ttl
 │   ├── index.html
 │   └── records.html
@@ -95,20 +95,19 @@ DMP-corpus/
 
 The dataset includes metadata describing individual DMPs, including:
 
-- internal identifier;
-- source repository;
+- source repository or platform and its URL;
 - original DMP link;
 - identifier from the source repository;
 - title;
 - creation date;
 - document format;
-- template;
+- template and template source;
 - language;
-- license information;
+- license information and license URI, when available;
 - document structure;
 - completeness with respect to the original template;
 - declared access level;
-- software platform;
+- software platform and its URL;
 - presence of figures, tables, and lists;
 - curator notes.
 
@@ -118,13 +117,11 @@ A detailed description of all metadata fields is available in:
 
 ---
 
-## Website and Persistent Identifiers
+## Website and Record URIs
 
-Each DMP record is assigned a persistent web identifier:
+Each DMP record is assigned a stable web URI within the DMP Corpus:
 
-```text
 https://jmartinkova.github.io/DMP-corpus/dmp/{internal-id}/
-```
 
 For example:
 
@@ -196,9 +193,12 @@ See [`LICENSE`](LICENSE) for details.
 
 ## Citation
 
-If you use this dataset, please cite the corresponding Zenodo record.
+If you use this dataset, please cite version 1.0.0:
 
-*Citation details will be added after the first Zenodo release.*
+> Martínková, J. (2026). *DMP Corpus* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22304640
+
+For a version-independent reference to the DMP Corpus, use the concept DOI:
+https://doi.org/10.5281/zenodo.22304639
 
 ---
 

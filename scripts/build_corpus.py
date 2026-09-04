@@ -815,9 +815,21 @@ def render_home_page(record_count, codebook_filename="codebook.html"):
     <section class="info-section">
     <h2>Citation</h2>
     <p>
-        If you use this dataset in research, please cite the DMP Corpus.
-        A citable release will be archived on Zenodo. Citation details
-        and a DOI will be added with the first public release.
+        If you use this dataset, please cite version 1.0.0:
+    </p>
+    <p>
+        Martínková, J. (2026). <em>DMP Corpus</em> (Version 1.0.0).
+        Zenodo.
+        <a href="https://doi.org/10.5281/zenodo.22304640">
+            https://doi.org/10.5281/zenodo.22304640
+        </a>
+    </p>
+    <p>
+        For a version-independent reference to the DMP Corpus, use the
+        concept DOI:
+        <a href="https://doi.org/10.5281/zenodo.22304639">
+            https://doi.org/10.5281/zenodo.22304639
+        </a>
     </p>
 
     <h2>License</h2>
