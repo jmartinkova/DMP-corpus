@@ -2,11 +2,24 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "DMP Corpus"
 type: dataset
+
 authors:
   - family-names: "Martínková"
     given-names: "Jana"
+    orcid: "https://orcid.org/0000-0001-8575-6533"
+
 version: "1.0.0"
-date-released: "2026-X-X"
+date-released: "2026-09-04"
+
 repository-code: "https://github.com/jmartinkova/DMP-corpus"
 url: "https://jmartinkova.github.io/DMP-corpus/"
+
+keywords:
+  - "Data Management Plan"
+  - "DMP"
+  - "research data management"
+  - "data stewardship"
+  - "FAIR data"
+  - "Linked Data"
+
 license: "CC-BY-4.0"
