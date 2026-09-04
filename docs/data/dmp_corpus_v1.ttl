@@ -9,7 +9,6 @@
     dcterms:identifier "1004",
         "189894" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "A European Framework for Transdisciplinary Education" ;
     dmpc:creationTool "DMPonline" ;
@@ -27,7 +26,6 @@
     dcterms:identifier "1011",
         "188853" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Scoping review: Does current evidence justify or challenge the use of the Fresh Eyes approach for intrapartum fetal monitoring in maternity services?" ;
     dmpc:creationTool "DMPonline" ;
@@ -45,7 +43,6 @@
     dcterms:identifier "1012",
         "187023" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Stereo-Consistent Hatching from Apparent Ridges for Improved Depth Perception in VR" ;
     dmpc:creationTool "DMPonline" ;
@@ -63,7 +60,6 @@
     dcterms:identifier "1021",
         "183456" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Advanced Chemical Sensors for Biodetection" ;
     dmpc:creationTool "DMPonline" ;
@@ -81,7 +77,6 @@
     dcterms:identifier "1033",
         "186431" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The Impact of the CSRD on Logistics: Scope 3 Emissions Reporting and Compliance Challenges" ;
     dmpc:creationTool "DMPonline" ;
@@ -99,7 +94,6 @@
     dcterms:identifier "1041",
         "183548" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Biomechanical and Physical Demand of Acceleration Performance in Field-Based Sport Athletes" ;
     dmpc:creationTool "DMPonline" ;
@@ -117,7 +111,6 @@
     dcterms:identifier "1065",
         "179325" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Improving value co-creation between client and consultants in front-end stages of infrastructure projects" ;
     dmpc:creationTool "DMPonline" ;
@@ -135,7 +128,6 @@
     dcterms:identifier "1103",
         "174271" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Fluoridation modifies the quantum coherence of near-infrared organic rare-earth molecules (FaMiQ)" ;
     dmpc:creationTool "DMPonline" ;
@@ -153,7 +145,6 @@
     dcterms:identifier "1119",
         "170420" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Validity check for C-P structure in usage on identifying influential nodes" ;
     dmpc:creationTool "DMPonline" ;
@@ -171,7 +162,6 @@
     dcterms:identifier "1144",
         "169531" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The lasting legacy of extreme global warming: Fossil floras and climates of  the Smithian-Spathian extinction event" ;
     dmpc:creationTool "DMPonline" ;
@@ -189,7 +179,6 @@
     dcterms:identifier "1158",
         "157426" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Exploring The Influence Of Augmented Reality On Retail Sector In Southwest Of The Uk: Customer's Experience, Satisfaction And Purchase Decisions" ;
     dmpc:creationTool "DMPonline" ;
@@ -207,7 +196,6 @@
     dcterms:identifier "1176",
         "159540" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Developing a Data note reporting guideline for qualitative health and social care research datasets (the D‚ÄônoTE study)" ;
     dmpc:creationTool "DMPonline" ;
@@ -225,7 +213,6 @@
     dcterms:identifier "1189",
         "161906" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "ON THE ORIGINS OF THE GOTHIC LEADER ALARIC:  BETWEen CLAUDIAN AND ZOSIMUS" ;
     dmpc:creationTool "DMPonline" ;
@@ -243,7 +230,6 @@
     dcterms:identifier "1220",
         "152807" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Shaping a modern approach to open data from a World-leading science facility" ;
     dmpc:creationTool "DMPonline" ;
@@ -261,7 +247,6 @@
     dcterms:identifier "1231",
         "144935" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Exoskeleton Training for Spinal Cord Injury Neuropathic Pain (ExSCIP): A Phase 2 Feasibility Randomised Trial" ;
     dmpc:creationTool "DMPonline" ;
@@ -279,7 +264,6 @@
     dcterms:identifier "1235",
         "87280" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Management of integrated safety and security barriers in the process industries" ;
     dmpc:creationTool "DMPonline" ;
@@ -297,7 +281,6 @@
     dcterms:identifier "1239",
         "154938" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Development of a spiritually based psychosocial education program for family caregivers" ;
     dmpc:creationTool "DMPonline" ;
@@ -315,7 +298,6 @@
     dcterms:identifier "1243",
         "155435" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "FIFA - The impact of ball pressure on cognition within current IFAB guidelines" ;
     dmpc:creationTool "DMPonline" ;
@@ -333,7 +315,6 @@
     dcterms:identifier "1244",
         "128211" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution" ;
     dmpc:creationTool "DMPonline" ;
@@ -351,7 +332,6 @@
     dcterms:identifier "1251",
         "87555" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Development of heterostructured semiconducting nanoparticles for methane conversion by photoelectrocatalytic process" ;
     dmpc:creationTool "DMPonline" ;
@@ -369,7 +349,6 @@
     dcterms:identifier "1254",
         "153986" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Forest School National Survey" ;
     dmpc:creationTool "DMPonline" ;
@@ -387,7 +366,6 @@
     dcterms:identifier "1257",
         "150273" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The Cooley Connection" ;
     dmpc:creationTool "DMPonline" ;
@@ -405,7 +383,6 @@
     dcterms:identifier "1261",
         "152934" ;
     dcterms:language "es" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The role of time to positive blood cultures in enhancing the predictive capability of DenoVA score for diagnosing infective endocarditis in patients with enterococcus faecalis bacteremia" ;
     dmpc:creationTool "DMPonline" ;
@@ -427,7 +404,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "FLORA Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -443,7 +419,6 @@
     dcterms:identifier "1303",
         "85128" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Head and neck paraganglioma registry" ;
     dmpc:creationTool "DMPonline" ;
@@ -461,7 +436,6 @@
     dcterms:identifier "127643",
         "1370" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Evaluating Stakeholder Perspectives on Smart Street Lighting: A Multi-Dimensional Framework" ;
     dmpc:creationTool "DMPonline" ;
@@ -479,7 +453,6 @@
     dcterms:identifier "131616",
         "1374" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Employee Perception of Economic Outlook in Myanmar‚Äôs International Business environment: An Assessment of Optimism and Pessimism" ;
     dmpc:creationTool "DMPonline" ;
@@ -497,7 +470,6 @@
     dcterms:identifier "127812",
         "1378" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Strengthening Adaptive Resilience of Mountain Ecosystems and Communities" ;
     dmpc:creationTool "DMPonline" ;
@@ -515,7 +487,6 @@
     dcterms:identifier "127973",
         "1382" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Assessing the ecophysiological mechanisms underpinning thermal resilience in native and non-native shellfish in the Wadden Sea." ;
     dmpc:creationTool "DMPonline" ;
@@ -533,7 +504,6 @@
     dcterms:identifier "121858",
         "1413" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Telecom-wavelength single-photon source based on organic erbium molecules" ;
     dmpc:creationTool "DMPonline" ;
@@ -551,7 +521,6 @@
     dcterms:identifier "1414",
         "92878" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Analgosedation after cardiac surgery in infants: A' model-based\" nation-wide randomized controlled trial" ;
     dmpc:creationTool "DMPonline" ;
@@ -569,7 +538,6 @@
     dcterms:identifier "103451",
         "1431" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Trinity College Botanic Garden long-term monitoring program" ;
     dmpc:creationTool "DMPonline" ;
@@ -591,13 +559,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "EFICONSUMPTION Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139469> .
 
@@ -607,7 +573,6 @@
     dcterms:identifier "111771",
         "1459" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Beyond Boardrooms: The Impact of Corporate Quota on Gender Equality in Organizations" ;
     dmpc:creationTool "DMPonline" ;
@@ -625,7 +590,6 @@
     dcterms:identifier "111715",
         "1474" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Overcoming Implementation challenges of the Speech and Language Programme in a primary school using business operations management strategies." ;
     dmpc:creationTool "DMPonline" ;
@@ -647,7 +611,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "COHESIFY Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -663,7 +626,6 @@
     dcterms:identifier "110967",
         "1480" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The effect of grammatical complexity and verb frequency in the acquisition of english using the Sentence Repetition Test" ;
     dmpc:creationTool "DMPonline" ;
@@ -681,7 +643,6 @@
     dcterms:identifier "106845",
         "1503" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "thRIve: The UK's EDI Caucus" ;
     dmpc:creationTool "DMPonline" ;
@@ -699,7 +660,6 @@
     dcterms:identifier "103424",
         "1521" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "RESEarch for healThy AGEING -  RESETageing" ;
     dmpc:creationTool "DMPonline" ;
@@ -717,7 +677,6 @@
     dcterms:identifier "101322",
         "1533" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Social Representations of European history" ;
     dmpc:creationTool "DMPonline" ;
@@ -735,7 +694,6 @@
     dcterms:identifier "1539",
         "99820" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Cultural Biases in Banks‚Äô Sovereign Debt Exposures" ;
     dmpc:creationTool "DMPonline" ;
@@ -753,7 +711,6 @@
     dcterms:identifier "1544",
         "99401" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "VR for Diversity" ;
     dmpc:creationTool "DMPonline" ;
@@ -771,7 +728,6 @@
     dcterms:identifier "1564",
         "96859" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Paleoecology in Scandinavian peatlands" ;
     dmpc:creationTool "DMPonline" ;
@@ -789,7 +745,6 @@
     dcterms:identifier "1579",
         "87239" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Theological research on the theologian Thomas Boston" ;
     dmpc:creationTool "DMPonline" ;
@@ -807,7 +762,6 @@
     dcterms:identifier "1581",
         "94084" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "NWO Open Science 203.001.121: BridgeDb" ;
     dmpc:creationTool "DMPonline" ;
@@ -825,7 +779,6 @@
     dcterms:identifier "1590",
         "92752" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The effects of study-abroad experience on Chinese in-service college EFL teachers‚Äô identity: A dialogical approach" ;
     dmpc:creationTool "DMPonline" ;
@@ -843,7 +796,6 @@
     dcterms:identifier "1643",
         "84810" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Mental Imagery Interviews" ;
     dmpc:creationTool "DMPonline" ;
@@ -861,7 +813,6 @@
     dcterms:identifier "1716",
         "74857" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Development of Research Partnership in Hypertension Assessment with Smart E-textile Wearable Technology (RPHA)" ;
     dmpc:creationTool "DMPonline" ;
@@ -879,7 +830,6 @@
     dcterms:identifier "1726",
         "32890" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "A qualitative study exploring patient experiences of comfort during radiotherapy and radiographer views of managing patient comfort during the delivery of radiotherapy" ;
     dmpc:creationTool "DMPonline" ;
@@ -897,7 +847,6 @@
     dcterms:identifier "1736",
         "72035" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Induce vascular networks in large degradable  porous scaffolds by influencing the local microenvironment; spatiotemporal control of growth factors and patterning of mechanical signals" ;
     dmpc:creationTool "DMPonline" ;
@@ -915,7 +864,6 @@
     dcterms:identifier "1737",
         "73181" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Political Language, Restriction Compliance, and COVID-19" ;
     dmpc:creationTool "DMPonline" ;
@@ -933,7 +881,6 @@
     dcterms:identifier "1742",
         "64637" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Interventions Following Fractures of the Spine In the Aged Patient, Linked to Quality of Life Outcomes" ;
     dmpc:creationTool "DMPonline" ;
@@ -955,7 +902,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "HybridHeart Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -971,7 +917,6 @@
     dcterms:identifier "1792",
         "59306" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "A new approach to nonperturbative physics" ;
     dmpc:creationTool "DMPonline" ;
@@ -989,7 +934,6 @@
     dcterms:identifier "1805",
         "47319" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "The Subjective Perception of Sensory Information: Investigating Formats of Mental Representations" ;
     dmpc:creationTool "DMPonline" ;
@@ -1007,7 +951,6 @@
     dcterms:identifier "1816",
         "54299" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Worlding Public Cultures: The Arts and Social Innovation" ;
     dmpc:creationTool "DMPonline" ;
@@ -1025,7 +968,6 @@
     dcterms:identifier "1873",
         "42046" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Simulating tourism water consumption with stakeholders (SIMTWIST)" ;
     dmpc:creationTool "DMPonline" ;
@@ -1043,7 +985,6 @@
     dcterms:identifier "1878",
         "40690" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Does the source of foreign aid affect democratization in recipient nations? - A study of chinese aid" ;
     dmpc:creationTool "DMPonline" ;
@@ -1061,7 +1002,6 @@
     dcterms:identifier "1884",
         "39671" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "To transform a laboratory-proven disinfection by-product sensor into a validated reliable sensor network for water distribution systems." ;
     dmpc:creationTool "DMPonline" ;
@@ -1079,7 +1019,6 @@
     dcterms:identifier "1885",
         "38854" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Biomarkers of Shoulder Pathologies in Synovial Fluid" ;
     dmpc:creationTool "DMPonline" ;
@@ -1097,7 +1036,6 @@
     dcterms:identifier "1907",
         "29977" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Modelling tools for complex systems: advancing the capability of many body dissipative particle dynamics" ;
     dmpc:creationTool "DMPonline" ;
@@ -1118,13 +1056,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "KINDRA Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139649> .
 
@@ -1137,13 +1073,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "MaX Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139694> .
 
@@ -1157,13 +1091,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "DESIR Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 80 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139789> .
 
@@ -1176,13 +1108,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "RESIST Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139865> .
 
@@ -1195,7 +1125,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "INFORM Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 80 ;
     dmpc:hasFigures false ;
@@ -1214,13 +1143,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "NATHenA Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139993> .
 
@@ -1233,13 +1160,11 @@
     dcterms:license "MIT" ;
     dcterms:source "TU Vien" ;
     dcterms:title "PRECRIME Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1140002> .
 
@@ -1253,7 +1178,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "NICI Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1272,13 +1196,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "REACH Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139882> .
 
@@ -1291,13 +1213,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "CAPTAIN Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 50 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139884> .
 
@@ -1311,7 +1231,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "SenSE Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1331,7 +1250,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "NEXTFOOD Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1351,7 +1269,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "VALITEST Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1370,13 +1287,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "RELACS Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139905> .
 
@@ -1390,13 +1305,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "BigDataStack Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139974> .
 
@@ -1407,13 +1320,10 @@
     dcterms:identifier "353",
         "o:2140826" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "TU Vien" ;
     dcterms:title "Data Management Plan (DMP)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 0 ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:2140826> .
 
@@ -1427,7 +1337,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "Residue2Heat Data Management plan - M12" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1447,7 +1356,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "ICO2CHEM Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 50 ;
     dmpc:hasFigures false ;
@@ -1467,7 +1375,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "AgriDemo-F2F Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1486,13 +1393,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "OPRECOMP Initial data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139322> .
 
@@ -1505,13 +1410,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "WeObserve WeObserve data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139337> .
 
@@ -1525,7 +1428,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "A-Patch Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
@@ -1545,7 +1447,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "OceanSET Project data management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1565,7 +1466,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "MARINERGI Draft Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1585,13 +1485,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "MELLODDY Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists false ;
     dmpc:hasTables false ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139231> .
 
@@ -1605,13 +1503,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "LIQUEFACT Data Management Plan v3" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139540> .
 
@@ -1624,13 +1520,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "SARAFun Draft Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139575> .
 
@@ -1644,7 +1538,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "CHEOPS Data Management Plan (DMP)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1664,7 +1557,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "FORCE Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1683,7 +1575,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "Open4Citizens Data Management Plan (Midterm)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1703,7 +1594,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "VESSEDIA Data Management Plan (DMP)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1722,13 +1612,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "ERSAT GGC Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139921> .
 
@@ -1742,7 +1630,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "CIRC4Life \"Data Management Plan - #1\"" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1762,7 +1649,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "HARVEST Data management Plan - Research data repository" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
@@ -1780,7 +1666,6 @@
     dcterms:language "de" ;
     dcterms:source "TU Vien" ;
     dcterms:title "Data Management Plan - Eine Anleitung zur Erstellung von Data Management Pl√§nen. Projekt e-Infrastructures Austria (Deutsch): Eine Anleitung zur dauerhaften Sicherung von digitalen Best√§nden" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     schema:url <https://phaidra.univie.ac.at/detail/o:367863> .
 
@@ -1794,7 +1679,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "MendTheGap Data management plan ‚Äì Pilot participation" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1814,7 +1698,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "INTERMODEL EU Data Management plan 1" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -1833,13 +1716,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "STARS4ALL Data Management Plan (initial version)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables false ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139709> .
 
@@ -1852,13 +1733,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "CityxChange Data Management Plan (Initial version)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1140048> .
 
@@ -1871,13 +1750,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "S2S4E Data Management Plan (DMP) presentation" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139943> .
 
@@ -1890,13 +1767,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "ACTRIS PPP ACTRIS PPP data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139339> .
 
@@ -1910,13 +1785,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "SMARTFISH Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139297> .
 
@@ -1930,13 +1803,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "MAGIC Creation of a data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139594> .
 
@@ -1949,13 +1820,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "CYTO-WATER Data Management Plan (Draft version)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139650> .
 
@@ -1969,7 +1838,6 @@
     dcterms:license "CC BY-NC 4.0" ;
     dcterms:source "TU Vien" ;
     dcterms:title "GRECO Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
@@ -1989,7 +1857,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "FABLABIA Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2008,13 +1875,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "INno-4-AGRIFOOD Data Management Plan ‚Äì Interim version" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139698> .
 
@@ -2028,7 +1893,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "FarFish Data Management Plan under the H2020 Open Research Data Pilot" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 50 ;
     dmpc:hasFigures false ;
@@ -2044,16 +1908,13 @@
     dcterms:identifier "785",
         "o:1139581" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "TU Vien" ;
     dcterms:title "SSIX Data Requirement Analysis and Data Managment Plan V1" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 100 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139581> .
 
@@ -2067,7 +1928,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "ROSSINI Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
@@ -2086,13 +1946,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "GAIA-CLIM Data management plan commensurate with Pilot on Open Research Data v3" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139568> .
 
@@ -2105,13 +1963,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "A-LEAF A-LEAF Data Management plan - Update 24 months" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139359> .
 
@@ -2125,7 +1981,6 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "Bio4Comp Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2144,13 +1999,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "DOLFINS Open Research Data Work Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists false ;
     dmpc:hasTables false ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139599> .
 
@@ -2160,12 +2013,9 @@
     dcterms:identifier "834",
         "o:407951" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "TU Vien" ;
     dcterms:title "DMP Online User Guide for Creating Data Management Plans using DMPOnline" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
-    dmpc:template "unknown" ;
     schema:url <https://phaidra.univie.ac.at/detail/o:407951> .
 
 <https://jmartinkova.github.io/DMP-corpus/dmp/889/> a dmpc:DMPRecord ;
@@ -2178,7 +2028,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "TRANSPATH - Data Management Plan - M6" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
@@ -2198,7 +2047,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "Data Management Plan: Initial" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2218,7 +2066,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "FAIRiCUBE Deliverable D6.2 Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2238,7 +2085,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "D1.5: 3rd Data Management Report" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 90 ;
     dmpc:hasFigures false ;
@@ -2258,7 +2104,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "Data Management Plan M6" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2278,7 +2123,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "D1.6 SSHOC Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2298,7 +2142,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "D8.4 Data Management Plan and Ethics Report" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2315,10 +2158,8 @@
     dcterms:identifier "10.5281/zenodo.14571863",
         "898" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "Zenodo" ;
     dcterms:title "Data Management Plan of FISM, \"Fighting with a Smile: Satirical and Humourist Voices of Resilience from Hindi Speaking Subaltern Subjects and Communities\"" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2338,7 +2179,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "EU-CHINA BRIDGE: D7.6 – Data Management Plan V1" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2358,7 +2198,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "D7.2 Initial Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2378,7 +2217,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "Data management plan. 1st version (Deliverable 3.1)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2398,7 +2236,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "CoActD1.4: Final Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2418,7 +2255,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "D1.6: Data management plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2438,7 +2274,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "D6.2 Data Management Plan (first version)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2458,7 +2293,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "Zenodo" ;
     dcterms:title "OPEUS D9.3 - Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2524,7 +2358,6 @@
     dmpc:hasFigures false ;
     dmpc:hasLists false ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://zenodo.org/records/15309013> .
 
@@ -2543,7 +2376,6 @@
     dmpc:hasFigures false ;
     dmpc:hasLists false ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://zenodo.org/records/3903259> .
 
@@ -2557,7 +2389,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "Data Management Plan M6" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2577,7 +2408,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "C0PEP0D projet - Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2603,7 +2433,6 @@
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables false ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://zenodo.org/records/10117908> .
 
@@ -2623,7 +2452,6 @@
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://zenodo.org/records/7701207> .
 
@@ -2637,7 +2465,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "Data management plan for DECISION (D8.2)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2657,7 +2484,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "DATA MANAGEMenT PLAN FOR THE MOSAIC.PT PROJECT" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2677,13 +2503,11 @@
     dcterms:license "All rights reserved" ;
     dcterms:source "TU Vien" ;
     dcterms:title "WEAR Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables false ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://phaidra.univie.ac.at/detail/o:1139370> .
 
@@ -2697,7 +2521,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "Data Management Plan (ISLAM-OPHOB-ISM, 785934)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2717,7 +2540,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "Project: Planar architecture all solid state batteries. PLARASBAT Project ID:4023. Data Management Plan v 1.0" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2737,7 +2559,6 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "D1.1 Data Management Plan" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
@@ -2754,10 +2575,8 @@
     dcterms:identifier "938",
         "https://doi.org/10.20350/digitalCSIC/15704" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "EOSC" ;
     dcterms:title "Horizon 2020 DMP - The European Qur’an. Islamic Scripture in European Culture and Religion 1150-1850 (Version 2)" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures true ;
@@ -2777,13 +2596,11 @@
     dcterms:license "CC-BY" ;
     dcterms:source "EOSC" ;
     dcterms:title "CINECA Data Management Plan v2" ;
-    dmpc:creationTool "unknown" ;
     dmpc:declaredAccessLevel "Public" ;
     dmpc:estimatedCompleteness 100 ;
     dmpc:hasFigures false ;
     dmpc:hasLists true ;
     dmpc:hasTables true ;
-    dmpc:template "unknown" ;
     dmpc:templateCorrespondence 0 ;
     schema:url <https://zenodo.org/records/4683415> .
 
@@ -2793,7 +2610,6 @@
     dcterms:identifier "190233",
         "968" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Presenting fabrics online: how to increase perception accuracy?" ;
     dmpc:creationTool "DMPonline" ;
@@ -2811,7 +2627,6 @@
     dcterms:identifier "193623",
         "975" ;
     dcterms:language "fr" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "CLSR ARCHIVES NUMERIQUES" ;
     dmpc:creationTool "DMPonline" ;
@@ -2829,7 +2644,6 @@
     dcterms:identifier "193171",
         "984" ;
     dcterms:language "en" ;
-    dcterms:license "unknown" ;
     dcterms:source "DMPonline" ;
     dcterms:title "Motivating Security engagement and Compliance: Exploring Human-Centric Cyber Security Awareness and engagement" ;
     dmpc:creationTool "DMPonline" ;

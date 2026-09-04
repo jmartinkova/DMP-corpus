@@ -74,7 +74,7 @@ DMP-corpus/
 │   └── records.html
 │
 ├── scripts/
-│   └── build_dmp_corpus.py
+│   └── build_corpus.py
 │
 ├── ontology/
 │   └── ontology_dmpc.ttl

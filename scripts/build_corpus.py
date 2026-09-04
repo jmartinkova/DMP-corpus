@@ -60,6 +60,10 @@ COLUMN_ALIASES = {
         "Tables (beside first page of metadata)",
     ],
     "Lists": ["Lists"],
+    "Source Link": ["Source Link"],
+    "Template Source": ["Template Source"],
+    "License Link": ["License Link"],
+    "Tool Link": ["Tool Link"]
 }
 
 
@@ -69,11 +73,10 @@ def clean_value(value):
 
     text = str(value).strip()
 
-    if not text or text.casefold() in {
-        "nan",
-        "none",
-        "null",
-    }:
+    if not text:
+        return None
+
+    if text.lower() in {"unknown", "n/a", "na", "not available"}:
         return None
 
     return text
@@ -225,50 +228,78 @@ def build_record(row, columns, row_number, warnings):
     return {
         "internal_id": internal_id,
         "uri": record_uri(internal_id),
+
         "source": get_value(row, columns, "Source"),
+        "source_url": valid_http_uri(
+            get_value(row, columns, "Source Link")
+        ),
+
         "direct_link": direct_link,
+
         "public_id": get_value(row, columns, "Public ID"),
         "name": get_value(row, columns, "Name"),
+
         "date": normalize_date(
             get_value(row, columns, "Date of Creation"),
             row_number,
             warnings,
         ),
+
         "format": get_value(row, columns, "Format"),
+
         "template": get_value(row, columns, "Template"),
+        "template_url": valid_http_uri(
+            get_value(row, columns, "Template Source")
+        ),
+
         "language": get_value(row, columns, "Language"),
+
         "license": get_value(row, columns, "License"),
+        "license_url": valid_http_uri(
+            get_value(row, columns, "License Link")
+        ),
+
         "template_correspondence": parse_integer(
             get_value(row, columns, "Template correspondence"),
             row_number,
             "Template correspondence",
             warnings,
         ),
+
         "estimated_completeness": parse_integer(
             get_value(row, columns, "Estimated completeness"),
             row_number,
             "Estimated completeness",
             warnings,
         ),
+
         "declared_access_level": get_value(
             row,
             columns,
             "Declared access level",
         ),
+
         "notes": get_value(row, columns, "Notes"),
+
         "tool": get_value(row, columns, "Tool"),
+        "tool_url": valid_http_uri(
+            get_value(row, columns, "Tool Link")
+        ),
+
         "figures": parse_boolean(
             get_value(row, columns, "Figures"),
             row_number,
             "Figures",
             warnings,
         ),
+
         "tables": parse_boolean(
             get_value(row, columns, "Tables"),
             row_number,
             "Tables",
             warnings,
         ),
+
         "lists": parse_boolean(
             get_value(row, columns, "Lists"),
             row_number,
@@ -295,10 +326,38 @@ def add_record_to_graph(graph, record):
         record["public_id"],
     )
     add_literal(graph, subject, DCTERMS.title, record["name"])
-    add_literal(graph, subject, DCTERMS.source, record["source"])
+    if record["source_url"] is not None:
+        graph.add(
+            (
+                subject,
+                DCTERMS.source,
+                URIRef(record["source_url"]),
+            )
+        )
+    else:
+        add_literal(
+            graph,
+            subject,
+            DCTERMS.source,
+            record["source"],
+        )
     add_literal(graph, subject, DCTERMS.format, record["format"])
     add_literal(graph, subject, DCTERMS.language, record["language"])
-    add_literal(graph, subject, DCTERMS.license, record["license"])
+    if record["license_url"] is not None:
+        graph.add(
+            (
+                subject,
+                DCTERMS.license,
+                URIRef(record["license_url"]),
+            )
+        )
+    else:
+        add_literal(
+            graph,
+            subject,
+            DCTERMS.license,
+            record["license"],
+        )
     add_literal(graph, subject, DCTERMS.description, record["notes"])
 
     if record["date"] is not None:
@@ -319,7 +378,21 @@ def add_record_to_graph(graph, record):
             )
         )
 
-    add_literal(graph, subject, DMPC.template, record["template"])
+    if record["template_url"] is not None:
+        graph.add(
+            (
+                subject,
+                DMPC.template,
+                URIRef(record["template_url"]),
+            )
+        )
+    else:
+        add_literal(
+            graph,
+            subject,
+            DMPC.template,
+            record["template"],
+        )
     add_literal(
         graph,
         subject,
@@ -340,7 +413,6 @@ def add_record_to_graph(graph, record):
         DMPC.declaredAccessLevel,
         record["declared_access_level"],
     )
-    add_literal(graph, subject, DMPC.creationTool, record["tool"])
     add_literal(
         graph,
         subject,
@@ -362,6 +434,21 @@ def add_record_to_graph(graph, record):
         record["lists"],
         datatype=XSD.boolean,
     )
+    if record["tool_url"] is not None:
+        graph.add(
+            (
+                subject,
+                DMPC.creationTool,
+                URIRef(record["tool_url"]),
+            )
+        )
+    else:
+        add_literal(
+            graph,
+            subject,
+            DMPC.creationTool,
+            record["tool"],
+        )
 
 
 def jsonld_for_record(record):
@@ -444,9 +531,8 @@ def display_value(value):
 
 def detail_row(label, value, raw_html=False, class_name=None):
     if value is None:
-        return ""
-
-    if raw_html:
+        rendered = '<span class="not-available">Not available</span>'
+    elif raw_html:
         rendered = value
     else:
         rendered = html.escape(display_value(value))
@@ -484,7 +570,7 @@ def score_badge(value):
 
     return (
         f'<span class="score score-{level}" '
-        f'aria-label="{score} percent">{score}%</span>'
+        f'aria-label="{score} percent">{score} %</span>'
     )
 
 
@@ -495,6 +581,21 @@ def boolean_badge(value):
     label = "Yes" if value else "No"
     state = "yes" if value else "no"
     return f'<span class="badge badge-{state}">{label}</span>'
+
+def linked_value(label, url):
+    if label is None:
+        return None
+
+    if url is None:
+        return html.escape(display_value(label))
+
+    escaped_url = html.escape(url, quote=True)
+    escaped_label = html.escape(display_value(label))
+
+    return (
+        f'<a href="{escaped_url}" '
+        f'rel="noopener noreferrer">{escaped_label}</a>'
+    )
 
 
 def render_record_page(record):
@@ -514,13 +615,41 @@ def render_record_page(record):
             "</a>"
         )
 
+    source_display = linked_value(
+        record["source"],
+        record["source_url"],
+    )
+
+    template_display = linked_value(
+        record["template"],
+        record["template_url"],
+    )
+
+    license_display = linked_value(
+        record["license"],
+        record["license_url"],
+    )
+
+    tool_display = linked_value(
+        record["tool"],
+        record["tool_url"],
+    )
+
     rows = ""
     rows += detail_row("Internal ID", record["internal_id"])
     rows += detail_row("Public ID", record["public_id"])
     rows += detail_row("Date of creation", record["date"])
-    rows += detail_row("Source", record["source"])
+    rows += detail_row(
+        "Source",
+        source_display,
+        raw_html=True,
+    )
     rows += detail_row("Format", record["format"])
-    rows += detail_row("Template", record["template"])
+    rows += detail_row(
+        "Template",
+        template_display,
+        raw_html=True,
+    )
     rows += detail_row(
         "Template correspondence",
         score_badge(record["template_correspondence"]),
@@ -534,12 +663,20 @@ def render_record_page(record):
         class_name="score-cell",
     )
     rows += detail_row("Language", record["language"])
-    rows += detail_row("License", record["license"])
+    rows += detail_row(
+        "License",
+        license_display,
+        raw_html=True,
+    )
     rows += detail_row(
         "Declared access level",
         record["declared_access_level"],
     )
-    rows += detail_row("Creation tool", record["tool"])
+    rows += detail_row(
+        "Creation tool",
+        tool_display,
+        raw_html=True,
+    )
     rows += detail_row(
         "Figures",
         boolean_badge(record["figures"]),
@@ -692,9 +829,6 @@ def render_records_page(records):
         title = record["name"] or f"DMP {record['internal_id']}"
         identifier = quote(record["internal_id"], safe="")
         metadata = []
-
-        if record["date"] is not None:
-            metadata.append(record["date"])
 
         if record["language"] is not None:
             metadata.append(record["language"])

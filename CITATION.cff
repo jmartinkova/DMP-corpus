@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "DMP Corpus"
+type: dataset
+authors:
+  - family-names: "Martínková"
+    given-names: "Jana"
+version: "1.0.0"
+date-released: "2026-X-X"
+repository-code: "https://github.com/jmartinkova/DMP-corpus"
+url: "https://jmartinkova.github.io/DMP-corpus/"
+license: "CC-BY-4.0"
