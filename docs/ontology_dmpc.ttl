@@ -1,4 +1,4 @@
-@prefix dmpc: <https://example.org/dmp-corpus/ontology#> .
+@prefix dmpc: <https://jmartinkova.github.io/DMP-corpus/ontology#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -6,14 +6,14 @@
 @prefix schema: <https://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://example.org/dmp-corpus/ontology>
+<https://jmartinkova.github.io/DMP-corpus/ontology>
     a owl:Ontology ;
     dcterms:title "DMP Corpus Vocabulary"@en ;
     dcterms:description
         "A lightweight vocabulary for curator-created metadata describing Data Management Plans in the DMP Corpus."@en ;
     dcterms:creator "Jana Martínková" ;
     dcterms:created "2026-07-20"^^xsd:date ;
-    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
     owl:versionInfo "1.0" .
 
 #################################################################
@@ -32,12 +32,11 @@ dmpc:DMPRecord
 #################################################################
 
 dmpc:template
-    a owl:DatatypeProperty ;
+    a rdf:Property ;
     rdfs:label "template"@en ;
     rdfs:comment
-        "The template, framework, or funder-specific structure identified by the curator as being used by the DMP."@en ;
-    rdfs:domain dmpc:DMPRecord ;
-    rdfs:range xsd:string .
+        "The template, framework, or funder-specific structure identified by the curator as being used by the DMP. Where available, the value is represented by a URI identifying or linking to the template; otherwise, a textual value may be used."@en ;
+    rdfs:domain dmpc:DMPRecord .
 
 dmpc:templateCorrespondence
     a owl:DatatypeProperty ;
@@ -64,12 +63,11 @@ dmpc:declaredAccessLevel
     rdfs:range xsd:string .
 
 dmpc:creationTool
-    a owl:DatatypeProperty ;
+    a rdf:Property ;
     rdfs:label "creation tool"@en ;
     rdfs:comment
-        "The software tool or online platform identified as having been used to create or manage the DMP."@en ;
-    rdfs:domain dmpc:DMPRecord ;
-    rdfs:range xsd:string .
+        "The software tool or online platform identified as having been used to create or manage the DMP. Where available, the value is represented by a URI identifying or linking to the tool; otherwise, a textual value may be used."@en ;
+    rdfs:domain dmpc:DMPRecord .
 
 dmpc:hasFigures
     a owl:DatatypeProperty ;
